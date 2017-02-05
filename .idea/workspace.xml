@@ -15,10 +15,10 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="stakhanov.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="stakhanov.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/stakhanov.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="630">
+            <state relative-caret-position="-830">
               <caret line="35" column="24" lean-forward="true" selection-start-line="35" selection-start-column="24" selection-end-line="35" selection-end-column="24" />
               <folding>
                 <element signature="e#236#343#0" expanded="false" />
@@ -27,6 +27,16 @@
                 <element signature="e#2983#3077#0" expanded="false" />
                 <element signature="e#3033#3069#0" expanded="false" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="63">
+              <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -105,6 +115,7 @@
         <option value="$PROJECT_DIR$/lib/keepAlive.js" />
         <option value="$PROJECT_DIR$/bin/bot.js" />
         <option value="$PROJECT_DIR$/lib/stakhanov.js" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -358,7 +369,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/stakhanov.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
+        <state relative-caret-position="-830">
           <caret line="35" column="24" lean-forward="true" selection-start-line="35" selection-start-column="24" selection-end-line="35" selection-end-column="24" />
           <folding>
             <element signature="e#236#343#0" expanded="false" />
@@ -367,6 +378,14 @@
             <element signature="e#2983#3077#0" expanded="false" />
             <element signature="e#3033#3069#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>

@@ -3,6 +3,7 @@
 'use strict';
 
 var Stakhanov = require('../lib/stakhanov');
+var KeepAlive = require( '../lib/keepAlive' );
 
 var token = process.env.BOT_API_KEY || require('../token');
 var name = process.env.BOT_NAME;
@@ -13,3 +14,4 @@ var stakhanov = new Stakhanov({
 });
 
 stakhanov.run();
+KeepAlive.init( 300000 );

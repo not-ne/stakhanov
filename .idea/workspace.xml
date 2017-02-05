@@ -18,15 +18,15 @@
       <file leaf-file-name="stakhanov.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/stakhanov.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="94" column="4" lean-forward="false" selection-start-line="94" selection-start-column="4" selection-end-line="94" selection-end-column="4" />
+            <state relative-caret-position="223">
+              <caret line="62" column="8" lean-forward="false" selection-start-line="62" selection-start-column="8" selection-end-line="62" selection-end-column="8" />
               <folding>
                 <element signature="e#206#313#0" expanded="false" />
                 <element signature="e#812#929#0" expanded="false" />
                 <element signature="e#883#921#0" expanded="false" />
-                <element signature="e#1961#2003#0" expanded="false" />
-                <element signature="e#2701#2795#0" expanded="false" />
-                <element signature="e#2751#2787#0" expanded="false" />
+                <element signature="e#1959#2001#0" expanded="false" />
+                <element signature="e#2698#2792#0" expanded="false" />
+                <element signature="e#2748#2784#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -256,9 +256,9 @@
             <element signature="e#206#313#0" expanded="false" />
             <element signature="e#812#929#0" expanded="false" />
             <element signature="e#883#921#0" expanded="false" />
-            <element signature="e#1961#2003#0" expanded="false" />
-            <element signature="e#2701#2795#0" expanded="false" />
-            <element signature="e#2751#2787#0" expanded="false" />
+            <element signature="e#1959#2001#0" expanded="false" />
+            <element signature="e#2698#2792#0" expanded="false" />
+            <element signature="e#2748#2784#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -313,15 +313,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/stakhanov.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="94" column="4" lean-forward="false" selection-start-line="94" selection-start-column="4" selection-end-line="94" selection-end-column="4" />
+        <state relative-caret-position="223">
+          <caret line="62" column="8" lean-forward="false" selection-start-line="62" selection-start-column="8" selection-end-line="62" selection-end-column="8" />
           <folding>
             <element signature="e#206#313#0" expanded="false" />
             <element signature="e#812#929#0" expanded="false" />
             <element signature="e#883#921#0" expanded="false" />
-            <element signature="e#1961#2003#0" expanded="false" />
-            <element signature="e#2701#2795#0" expanded="false" />
-            <element signature="e#2751#2787#0" expanded="false" />
+            <element signature="e#1959#2001#0" expanded="false" />
+            <element signature="e#2698#2792#0" expanded="false" />
+            <element signature="e#2748#2784#0" expanded="false" />
           </folding>
         </state>
       </provider>

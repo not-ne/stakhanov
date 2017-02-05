@@ -7,7 +7,7 @@ var KeepAlive = require( '../lib/keepAlive' );
 
 var token = process.env.BOT_API_KEY || require( '../token' );
 var name = process.env.BOT_NAME;
-var ivl = process.env.KEEP_ALIVE_INTERVAL;
+var ivl = process.env.KEEP_ALIVE_INTERVAL || 30000;
 
 var stakhanov = new Stakhanov( {
 	token: token,

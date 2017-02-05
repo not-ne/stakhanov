@@ -18,16 +18,25 @@
       <file leaf-file-name="stakhanov.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/stakhanov.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="223">
-              <caret line="62" column="8" lean-forward="false" selection-start-line="62" selection-start-column="8" selection-end-line="62" selection-end-column="8" />
+            <state relative-caret-position="193">
+              <caret line="99" column="11" lean-forward="false" selection-start-line="99" selection-start-column="4" selection-end-line="99" selection-end-column="11" />
               <folding>
                 <element signature="e#206#313#0" expanded="false" />
-                <element signature="e#812#929#0" expanded="false" />
-                <element signature="e#883#921#0" expanded="false" />
-                <element signature="e#1959#2001#0" expanded="false" />
-                <element signature="e#2698#2792#0" expanded="false" />
-                <element signature="e#2748#2784#0" expanded="false" />
+                <element signature="e#853#970#0" expanded="false" />
+                <element signature="e#924#962#0" expanded="false" />
+                <element signature="e#2947#3041#0" expanded="false" />
+                <element signature="e#2997#3033#0" expanded="false" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/node_modules/slackbots/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-238">
+              <caret line="105" column="0" lean-forward="false" selection-start-line="105" selection-start-column="0" selection-end-line="105" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -55,8 +64,8 @@
       <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="672">
-              <caret line="32" column="1" lean-forward="false" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
+            <state relative-caret-position="714">
+              <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -68,6 +77,7 @@
     <findStrings>
       <find>message</find>
       <find>slogans</find>
+      <find>console</find>
     </findStrings>
   </component>
   <component name="IdeDocumentHistory">
@@ -254,11 +264,10 @@
           <caret line="5" column="18" lean-forward="false" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="18" />
           <folding>
             <element signature="e#206#313#0" expanded="false" />
-            <element signature="e#812#929#0" expanded="false" />
-            <element signature="e#883#921#0" expanded="false" />
-            <element signature="e#1959#2001#0" expanded="false" />
-            <element signature="e#2698#2792#0" expanded="false" />
-            <element signature="e#2748#2784#0" expanded="false" />
+            <element signature="e#853#970#0" expanded="false" />
+            <element signature="e#924#962#0" expanded="false" />
+            <element signature="e#2947#3041#0" expanded="false" />
+            <element signature="e#2997#3033#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -279,14 +288,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/slackbots/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="413">
-          <caret line="27" column="3" lean-forward="true" selection-start-line="27" selection-start-column="3" selection-end-line="27" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/bin/bot.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="84">
@@ -297,8 +298,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="672">
-          <caret line="32" column="1" lean-forward="false" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
+        <state relative-caret-position="714">
+          <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -311,17 +312,32 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/EcmaScript.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="174" column="9" lean-forward="false" selection-start-line="174" selection-start-column="9" selection-end-line="174" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/slackbots/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-238">
+          <caret line="105" column="0" lean-forward="false" selection-start-line="105" selection-start-column="0" selection-end-line="105" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/lib/stakhanov.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="223">
-          <caret line="62" column="8" lean-forward="false" selection-start-line="62" selection-start-column="8" selection-end-line="62" selection-end-column="8" />
+        <state relative-caret-position="193">
+          <caret line="99" column="11" lean-forward="false" selection-start-line="99" selection-start-column="4" selection-end-line="99" selection-end-column="11" />
           <folding>
             <element signature="e#206#313#0" expanded="false" />
-            <element signature="e#812#929#0" expanded="false" />
-            <element signature="e#883#921#0" expanded="false" />
-            <element signature="e#1959#2001#0" expanded="false" />
-            <element signature="e#2698#2792#0" expanded="false" />
-            <element signature="e#2748#2784#0" expanded="false" />
+            <element signature="e#853#970#0" expanded="false" />
+            <element signature="e#924#962#0" expanded="false" />
+            <element signature="e#2947#3041#0" expanded="false" />
+            <element signature="e#2997#3033#0" expanded="false" />
           </folding>
         </state>
       </provider>
